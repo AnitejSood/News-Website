@@ -1,0 +1,14 @@
+{
+    "name": "News Website",
+    "short_name": "News 24",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A News app.",
+    "icons": [{
+      "src": "images/icon.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+]
+}
